@@ -1,0 +1,3 @@
+### Aim of SPYC Library
+
+We aim at providing a good place for students to read books.

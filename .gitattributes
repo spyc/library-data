@@ -1,0 +1,7 @@
+* text=auto
+*.txt text linguist-language=Markdown
+
+*.jpg binary
+*.png binary
+*.jpeg binary
+*.gif binary
