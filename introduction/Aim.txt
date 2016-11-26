@@ -1,3 +1,5 @@
 ### Aim of SPYC Library
 
-We aim at providing a good place for students to read books.
+本館致力於推動本校的閱讀風氣，希望能夠培養同學有良好的閱讀習慣。
+
+與此同時，本館希望向老師提供教學上的支援，同時提供以學生為中心的圖書借閱服務及資訊服務，並教育同學資訊素養的能力，以協助學生掌握自學的能力及達至終生學習的目標。
