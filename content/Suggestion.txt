@@ -3,8 +3,5 @@
 
 多謝瀏覽圖書館網頁。
 如對網頁內容及圖書館服務有任何意見，請將你的寶貴意見連同姓名、電郵地址及聯絡電話，
-[mailto:chy@pyc.edu.hk](電郵)或傳真至2602-0411，方便日後聯絡。
+[電郵](mailto:chy@pyc.edu.hk)或傳真至2602-0411，方便日後聯絡。
 
-如果發現保安漏洞,請電郵至[mailto:tony@opensource.hk](tony@opensource.hk)以及暫時保密,多謝合作。
-
-If you find any sucurity issue, please direct email to [mailto:tony@opensource.hk](tony@opensource.hk) report it and not disclose it, thank you.
