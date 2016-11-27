@@ -7,10 +7,10 @@
 如果您向本校舉報安全漏洞問題時，都有遵守下列政策，
 我們就不會針對您的舉報對您提出法律訴訟或執法調查。
 
-- 給予我們合理的時間調查並處理您的舉報問題，在問題解決之前請勿公開舉報問題的相關資訊，或與他人分享任何資訊。
-- 盡力避免侵犯他人私隱或干擾他人，包含但不限於破壞資料，以及中斷或降級我們的服務。
-- 在任何情況下，不要利用您發現的安全漏洞獲利。（包含執行其他風險，例如嘗試公開敏感性公司資料，或查探其他問題。）
-- 不要違反任何適用法律或法規。
+  - 給予我們合理的時間調查並處理您的舉報問題，在問題解決之前請勿公開舉報問題的相關資訊，或與他人分享任何資訊。
+  - 盡力避免侵犯他人私隱或干擾他人，包含但不限於破壞資料，以及中斷或降級我們的服務。
+  - 在任何情況下，不要利用您發現的安全漏洞獲利。（包含執行其他風險，例如嘗試公開敏感性公司資料，或查探其他問題。）
+  - 不要違反任何適用法律或法規。
 
 If you believe you have found a security vulnerability on SPYC Library site (or any system of SPYC),
 we encourage you to let us know right away by sending email to [tony@opensource.hk](tony@opensource.hk).
@@ -20,8 +20,8 @@ If you comply with the policies below when reporting a security issue to Faceboo
 we will not initiate a lawsuit or law enforcement investigation against you in response to your report.
 We ask that:
 
-- You give us reasonable time to investigate and mitigate an issue you report before making public any information about the report or sharing such information with others.
-- You make a good faith effort to avoid privacy violations and disruptions to others, including (but not limited to) destruction of data and interruption or degradation of our services.
-- You do not exploit a security issue you discover for any reason. (This includes demonstrating additional risk, such as attempted compromise of sensitive company data or probing for additional issues.)
-- You do not violate any other applicable laws or regulations.
+  - You give us reasonable time to investigate and mitigate an issue you report before making public any information about the report or sharing such information with others.
+  - You make a good faith effort to avoid privacy violations and disruptions to others, including (but not limited to) destruction of data and interruption or degradation of our services.
+  - You do not exploit a security issue you discover for any reason. (This includes demonstrating additional risk, such as attempted compromise of sensitive company data or probing for additional issues.)
+  - You do not violate any other applicable laws or regulations.
 
