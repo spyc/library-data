@@ -16,7 +16,7 @@ If you believe you have found a security vulnerability on SPYC Library site (or 
 we encourage you to let us know right away by sending email to [tony@opensource.hk](tony@opensource.hk).
 We will investigate all legitimate reports and do our best to quickly fix the problem.
 
-If you comply with the policies below when reporting a security issue to Facebook,
+If you comply with the policies below when reporting a security issue to SPYC,
 we will not initiate a lawsuit or law enforcement investigation against you in response to your report.
 We ask that:
 
