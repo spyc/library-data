@@ -1,7 +1,7 @@
 ### Security Vulnerability 安全漏洞 
 
 如果您認為自己發現了本館網頁(或其本校系統)的安全漏洞, 
-我們建議您立即電郵至[tony@opensource.hk](tony@opensource.hk)通知我們。
+我們建議您立即電郵至 [tony@opensource.hk](tony@opensource.hk) 通知我們。
 我們將會就所有合理的舉報內容展開調查，並且儘快修正問題。
 
 如果您向本校舉報安全漏洞問題時，都有遵守下列政策，
