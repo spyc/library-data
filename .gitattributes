@@ -1,5 +1,5 @@
 * text=auto
-*.txt text linguist-language=Markdown
+*.txt text linguist-language=markdown
 
 *.jpg binary
 *.png binary
