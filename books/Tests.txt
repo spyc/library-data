@@ -1,0 +1,13 @@
+### Modern PHP
+
+![Cover](http://akamaicovers.oreilly.com/images/0636920033868/cat.gif)
+
+Author: Josh Lockhart
+
+Call No.: 312.754 LOC
+
+Location: N/A
+
+##### Introduction
+
+Tell you what is modern PHP, stop staying in the age of PHP 4!
