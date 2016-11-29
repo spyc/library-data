@@ -8,6 +8,10 @@ git pull origin master
 
 git stash pop
 
+git add .
+
 git commit -m 'Auto commit and push'
 
-git push origin master 
+git push origin master
+
+git gc
