@@ -1,21 +1,26 @@
-### 圖書館館藏
+### Library Collection
 
 ![Bookshelf](https://spyc.github.io/library-data/images/bookshelf.jpg)
 
-圖書館內中、英文書籍均可借出。中文書採用賴永祥中國圖書分類法，英文書則採用杜威十進圖書分類法，將中、英文書籍分類及編碼，按每本書之索書號順序排列。讀者可先從電腦搜尋所需圖書的索書號，確定書刊擺放位置。
+All Chinese and English collection can be checked out.
+SPYC Library adopt the "The New Classification Scheme for Chinese Libraries" by Yung-Hsiang Lai
+and “Dewey Decimal Classification” respectively for the classification of Chinese and English collection.
+You may search the material with the [OPAC](http://library.pyc.edu.hk/WebOPAC.exe).
 
-截至二零一五年底，圖書館館藏超過2萬5千項，其中包括書籍及影音資料。此外，圖書館亦提供報章及期刊50種。有關各圖書館的借閱期限如下：
+Up to the end of year 2015, the number of SPYC Library collection is more than 25,000.
+Moreover, SPYC Library offer 50 different of magazines and newspapers.
+Here is the borrowing limit of library collection:
 
-館藏類型|借閱期限|借閱數量|續借次數|罰款|預約數量
---------|--------|--------|--------|----|--------
-一般館藏 | 14日 | 6項 | 1次 | $1.5/日 | 2項
-影音資料 | 14日 | 6項 | 1次 | $1.5/日 | 2項
-初中指定閱讀 | 14日 | 6項 | 1次 | $1.5/日 | 2項
-閉架館藏 (需預約) | 14日 | 6項 | 1次 | $1.5/日 | 2項
-升學就業資料 | 14日 | 6項 | 1次 | $1.5/日 | 2項
-校評局試題 | 7日 | 6項 | 1次 | $1.5/日 | 2項
-文憑試練習 | 2-7日 | 6項 | 1次 | $1.5/日 | 2項
-過期雜誌 | 14日 | 6項 | N/A | $1.5/日 | 2項
-報章 | 不予外借 | N/A | N/A | N/A | N/A
-校內過往試卷 | 不予外借 | N/A | N/A | N/A | N/A
-參考書 | 不予外借 | N/A | N/A | N/A | N/A
+Collection Type | Borrowing Period | Maxinum borrowing number | Times of Renewal | Overdue Fine | Number of reserve
+--------|-------|------------------|--------------------------|------------------|--------------|------------------
+Normal Collection | 14 days | 6 | 1 | $1.5/day | 2
+Multimedia Material | 14 days | 6 | 1 | $1.5/day | 2
+Junior Form Assigned Reading Books | 14 days | 6 | 1 | $1.5/day | 2
+Closed-Stack Collection (Require for reserve) | 14 days | 6 | 1 | $1.5/day | 2
+Carrer Material | 14 days | 6 | 1 | $1.5/day | 2
+HKEAA paper | 7 days | 6 | 1 | $1.5/days | 2
+DSE Exercise | 2-7 days | 6 | 1 | $1.5/day | 2
+Outdated Magazine | 14 days | 6 | N/A | $1.5/day | 2
+Newspaper | Not for borrowing | N/A | N/A | N/A | N/A
+School Past Paper | Not for borrowing | N/A | N/A | N/A | N/A
+Reference Book | Not for borrowing | N/A | N/A | N/A | N/A
