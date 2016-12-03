@@ -1,37 +1,42 @@
-### 圖書館設施
+### Library Facility
 
 ![Reading Space](https://spyc.github.io/library-data/images/reading_space.jpg)
 
-圖書館提供電腦設施、器材及閱讀空間，供學生及教職員作教學及研習之用。
+SPYC Library provide computers facility and reading space for SPYC students, teachers and staffs to study and teaching usage.
 
-##### 個人電腦
+##### Personal Computer
 
-圖書館共設三台個人電腦供同學使用，所以電腦均配備一般微軟Office及基本應用軟件。
+SPYC Library provide 3 computers with Mircosoft office and basic softeare.
 
-##### 影印機
+##### Photocopier
 
-圖書館設有黑白多功能影印機為同學提供掃瞄及影印服務。
+SPYC Library provide with multi-function black and white photocopier for scaning and photocopy service.
 
-掃瞄後的檔案將存放於R:\，同學在存取有關檔案後，請刪除檔案，以免資料被他人讀取。
+Scanned file would be stored in R:\ of in-school computers.
+Please remove your file after copy to your own storage.
 
-影印收費為$0.2/頁，如有需要請於午膳時段或放學後至4時30分前，到地下校務處向職員購買影印卡，每張影印卡價錢為$20，內已充值$4。
+The photocopy fee is $0.2 per page.
+You may buy a photocopy card during lunch time or after school before 4:30pm.
+Each photocopy card is charged $20 with $4 balance.
 
-影印時請保護圖書館資料、影印機及支持環保
+Please protect library material, photocopier and support environmential friendly during photocopying
 
- - 避免用力壓在書脊上
- - 蓋好影印機蓋以後才影印，減少機器因碳粉積聚導致機器損壞
- - 若資料過厚，請勿使用影印機的自動送紙器
- - 勿用尖銳及硬物，如鉛筆，在影印機螢幕選擇功能
- - 雙面均被使用的廢紙，請放置於廢紙回收箱內，如只使用一頁，請放於草稿紙收集架內（設於流通處左邊）
+ - Advoid pressing hard of the spine
+ - To lower the chance of mechines broken due to toner accumulation, please cover the photocopier cover before start
+ - Do not use the auto scanning mechine if the material is too thick
+ - Do not use sharp and hard object, such as pencil, to use the touch screen
+ - For double side printed waste paper, please put it into the recycle bin. For single side printed waste paper, please put it into the rough work sheet collection tray
 
-##### LED電視
+##### LED TV
 
-圖內有一台LED電視，在圖書館舉行各類閱讀活動時，供教職員或學生播放及展示有關資料。
+There is a LED TV within the library.
+Provide for students, teachers and staffs to play and show material during event in library.
 
-##### 自修空間
+##### Self-study space
 
-圖書館內設有11張自修座位供學生自修用。
+There are 11 self-study seats for students to self-study.
 
-##### 閱讀空間
+##### Reading Space
 
-閱讀空間為同學提供一個舒適的閱讀環境，促進學術交流。空間內共有3張U型沙發、37個坐位及10張可提供靈活配置的流動檯，以滿足不同學習需求。
+Reading space offers a comfortable environment for students to reading to boost exchange of knowledge.
+The space provides 3 U-shaped sofa, 37 seats and 10 moveable table for satifying different usages.
